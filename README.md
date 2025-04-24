@@ -1,0 +1,1 @@
+This is the first code that i wrote then i started to learn coding with c# last month. Its a very basic calculator that you can do the 4 basic operations such as 'Add, Subtract, Multiply, Divide' and later on i added 'Power' operation in it. For the latest version i also added 'Root' operation but i dont have it coded in this first version that i wrote.
