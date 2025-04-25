@@ -2,7 +2,7 @@
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Which operation do you want to do?");
             Console.Write("1=Add " + "2=Extract " + "3=Multiply " + "4=Divide " + "5=Power ");
@@ -53,7 +53,7 @@
             Console.ReadLine();
         }
 
-        static int Power(int baseNumber, int powerNumber )
+        private static int Power(int baseNumber, int powerNumber )
         {
             int result = 1;
 
